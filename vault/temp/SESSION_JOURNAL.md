@@ -77,3 +77,12 @@
 - action: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
 - fields: [{"label":"Digite o prontuário e tecle ENTER...","type":"text","value":"458674","length":6,"redacted":false},{"label":"[submit]","type":"submit","value":"","length":0,"redacted":false}]
 
+## 2026-09-22 18:31:14.321Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Digite o prontuário e tecle ENTER...","label":"Digite o prontuário e tecle ENTER...","value":"458674","valueLength":6,"text":""}
+
+## 2026-09-22 18:31:14.368Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"ELIVELTON PIO COSTA (Requerente)Padrasto/MadrastaCred.: 229769Selecionar"}
+
+## 2026-09-22 18:31:14.391Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Especifique o grau de parentesco...","label":"Especifique o grau de parentesco...","value":"Padrasto/Madrasta","valueLength":17,"text":""}
+
