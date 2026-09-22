@@ -286,3 +286,16 @@
 ## 2026-09-22 18:35:09.388Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"password","id":null,"placeholder":"••••••••","label":"••••••••","value":"[redacted:length=0]","valueLength":0,"text":""}
 
+## 2026-09-22 18:35:12.243Z change
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"password","id":null,"placeholder":"••••••••","label":"••••••••","value":"[redacted:length=9]","valueLength":9,"text":""}
+
+## 2026-09-22 18:35:12.243Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"submit","id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":" Entrar"}
+
+## 2026-09-22 18:35:12.244Z submit
+- action: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/configuracoes
+- fields: [{"label":"Login do administrador","type":"text","value":"admin","length":5,"redacted":false},{"label":"••••••••","type":"password","value":"[redacted:length=9]","length":9,"redacted":true},{"label":"[submit]","type":"submit","value":"","length":0,"redacted":false}]
+
+## 2026-09-22 18:35:12.256Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"password","id":null,"placeholder":"••••••••","label":"••••••••","value":"[redacted:length=9]","valueLength":9,"text":""}
+
