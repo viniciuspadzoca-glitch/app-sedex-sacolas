@@ -154,3 +154,12 @@
 ## 2026-09-22 18:32:08.065Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"","valueLength":0,"text":""}
 
+## 2026-09-22 18:32:11.892Z change
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"admi","valueLength":4,"text":""}
+
+## 2026-09-22 18:32:11.892Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"admi","valueLength":4,"text":""}
+
+## 2026-09-22 18:32:11.893Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"password","id":null,"placeholder":"••••••••","label":"••••••••","value":"[redacted:length=0]","valueLength":0,"text":""}
+
