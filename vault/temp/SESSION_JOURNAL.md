@@ -205,3 +205,20 @@
 - url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/historico
 - via: pushState
 
+## 2026-09-22 18:34:14.471Z click
+- element: {"tag":"a","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Configurações"}
+
+## 2026-09-22 18:34:14.472Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/configuracoes
+- via: pushState
+
+## 2026-09-22 18:34:14.484Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"","valueLength":0,"text":""}
+
+## 2026-09-22 18:34:15.303Z click
+- element: {"tag":"a","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Histórico"}
+
+## 2026-09-22 18:34:15.304Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/historico
+- via: pushState
+
