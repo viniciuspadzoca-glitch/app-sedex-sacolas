@@ -412,3 +412,6 @@
 ## 2026-09-22 18:37:00.954Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Novo item de Alimentação","label":"Novo item de Alimentação","value":"Farofa","valueLength":6,"text":""}
 
+## 2026-09-22 18:38:54.678Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Novo item de Alimentação","label":"Novo item de Alimentação","value":"Farofa","valueLength":6,"text":""}
+
