@@ -419,3 +419,7 @@
 - url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
 - title: Sistema de registro de sacolas e sedex
 
+## 2026-09-22 19:23:49.759Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
+- via: replaceState
+
