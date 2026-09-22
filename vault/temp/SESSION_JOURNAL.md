@@ -352,3 +352,9 @@
 ## 2026-09-22 18:35:50.502Z click
 - element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":""}
 
+## 2026-09-22 18:35:50.655Z click
+- element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":""}
+
+## 2026-09-22 18:35:50.790Z click
+- element: {"tag":"li","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Nenhum item cadastrado."}
+
