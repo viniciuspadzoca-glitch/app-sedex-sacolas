@@ -134,3 +134,13 @@
 ## 2026-09-22 18:31:41.352Z click
 - element: {"tag":"button","role":null,"ariaLabel":null,"name":null,"type":"button","id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":""}
 
+## 2026-09-22 18:32:06.664Z click
+- element: {"tag":"div","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"CADASTRO DE SACOLAS E SEDEXRegistro de sacolas e sedex — Complexo PenitenciárioCadastroHistóricoConfigurações Sincronizado Online"}
+
+## 2026-09-22 18:32:07.074Z click
+- element: {"tag":"a","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Histórico"}
+
+## 2026-09-22 18:32:07.075Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/historico
+- via: pushState
+
