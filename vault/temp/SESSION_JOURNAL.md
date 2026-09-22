@@ -253,3 +253,10 @@
 - url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
 - title: Sistema de registro de sacolas e sedex
 
+## 2026-09-22 18:35:02.407Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
+- via: replaceState
+
+## 2026-09-22 18:35:02.499Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Digite o prontuário e tecle ENTER...","label":"Digite o prontuário e tecle ENTER...","value":"","valueLength":0,"text":""}
+
