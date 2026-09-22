@@ -1,28 +1,6 @@
 import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import { Helmet } from 'react-helmet';
-import {
-    AlertTriangle,
-    Ban,
-    CalendarClock,
-    Check,
-    ChevronDown,
-    ChevronUp,
-    FileUp,
-    Image as ImageIcon,
-    Lock,
-    LogOut,
-    Pencil,
-    Plus,
-    Power,
-    Save,
-    Search,
-    ShieldAlert,
-    Trash2,
-    Unlock,
-    Upload,
-    Users,
-    X,
-} from 'lucide-react';
+import { TriangleAlert as AlertTriangle, Ban, CalendarClock, Check, ChevronDown, ChevronUp, FileUp, Image as ImageIcon, Lock, LogOut, Pencil, Plus, Power, Save, Search, ShieldAlert, Trash as Trash2, Clock as Unlock, Upload, Users, X } from 'lucide-react';
 import { CATEGORIAS, db, getPplUnicosDaBase, seedCatalogo } from '@/lib/db';
 import { parsePplCsv } from '@/lib/csv';
 import { sincronizarPplBaseFirebase } from '@/lib/firebase';

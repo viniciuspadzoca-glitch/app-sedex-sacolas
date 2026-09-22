@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { ClipboardList, History, Settings, Wifi, WifiOff, Cloud, CloudOff } from 'lucide-react';
+import { ClipboardList, Factory as History, Settings, Wifi, WifiOff, Cloud, CloudOff } from 'lucide-react';
 import { onSyncStatus } from '@/lib/firebase';
 const links = [{
   to: '/',

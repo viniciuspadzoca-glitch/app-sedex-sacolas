@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { Helmet } from 'react-helmet';
-import { FileText, Pencil, Printer, Trash2, CalendarDays } from 'lucide-react';
+import { FileText, Pencil, Printer, Trash as Trash2, CalendarDays } from 'lucide-react';
 import { jsPDF } from 'jspdf';
 import autoTable from 'jspdf-autotable';
 import { liveQuery } from 'dexie';

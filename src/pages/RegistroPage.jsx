@@ -1,24 +1,6 @@
 import React, { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { Helmet } from 'react-helmet';
-import {
-    AlertTriangle,
-    Ban,
-    BarChart3,
-    CheckCircle2,
-    Lock,
-    Minus,
-    Package,
-    Pencil,
-    Plus,
-    Printer,
-    Search,
-    ShoppingBag,
-    ShieldAlert,
-    ShieldX,
-    Users,
-    X,
-    Zap,
-} from 'lucide-react';
+import { TriangleAlert as AlertTriangle, Ban, ChartBar as BarChart3, CircleCheck as CheckCircle2, Lock, Minus, Package, Pencil, Plus, Printer, Search, ShoppingBag, ShieldAlert, ShieldX, Users, X, Zap } from 'lucide-react';
 import Comprovante from '@/components/Comprovante';
 import { CATEGORIAS, db, seedCatalogo } from '@/lib/db';
 import { liveQuery } from 'dexie';
