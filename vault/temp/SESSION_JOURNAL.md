@@ -86,3 +86,9 @@
 ## 2026-09-22 18:31:14.391Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Especifique o grau de parentesco...","label":"Especifique o grau de parentesco...","value":"Padrasto/Madrasta","valueLength":17,"text":""}
 
+## 2026-09-22 18:31:17.210Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Especifique o grau de parentesco...","label":"Especifique o grau de parentesco...","value":"Padrasto/Madrasta","valueLength":17,"text":""}
+
+## 2026-09-22 18:31:17.256Z click
+- element: {"tag":"div","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Confirmar dados do PPLCSVRevise os dados automáticos e complete os campos do visitante.Prontuário *Nome do PPL *GaleriaCubículo *CidadeNome da Visita *Número da CredencialGrau de Parentesco *MãeEsposaIrmã(o)PaiFilho(a)OutroCancelarConfirmar e Iniciar Cadastro"}
+
