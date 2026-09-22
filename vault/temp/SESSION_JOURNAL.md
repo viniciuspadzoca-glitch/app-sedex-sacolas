@@ -277,3 +277,12 @@
 ## 2026-09-22 18:35:07.321Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"","valueLength":0,"text":""}
 
+## 2026-09-22 18:35:09.387Z change
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"admin","valueLength":5,"text":""}
+
+## 2026-09-22 18:35:09.388Z blur
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"admin","valueLength":5,"text":""}
+
+## 2026-09-22 18:35:09.388Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"password","id":null,"placeholder":"••••••••","label":"••••••••","value":"[redacted:length=0]","valueLength":0,"text":""}
+
