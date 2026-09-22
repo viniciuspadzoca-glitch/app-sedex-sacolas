@@ -188,3 +188,13 @@
 - action: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/configuracoes
 - fields: [{"label":"Login do administrador","type":"text","value":"admin","length":5,"redacted":false},{"label":"••••••••","type":"password","value":"[redacted:length=9]","length":9,"redacted":true},{"label":"[submit]","type":"submit","value":"","length":0,"redacted":false}]
 
+## 2026-09-22 18:34:09.600Z click
+- element: {"tag":"a","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Cadastro"}
+
+## 2026-09-22 18:34:09.601Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
+- via: pushState
+
+## 2026-09-22 18:34:09.612Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Digite o prontuário e tecle ENTER...","label":"Digite o prontuário e tecle ENTER...","value":"","valueLength":0,"text":""}
+
