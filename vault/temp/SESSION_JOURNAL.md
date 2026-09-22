@@ -51,3 +51,13 @@
 ## 2026-09-22 18:30:57.437Z focus
 - element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":"text","id":null,"placeholder":"Login do administrador","label":"Login do administrador","value":"","valueLength":0,"text":""}
 
+## 2026-09-22 18:30:59.801Z click
+- element: {"tag":"a","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":null,"label":null,"value":null,"valueLength":0,"text":"Cadastro"}
+
+## 2026-09-22 18:30:59.801Z navigate
+- url: https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3--3000--d5306e6f.local-credentialless.webcontainer-api.io/
+- via: pushState
+
+## 2026-09-22 18:30:59.817Z focus
+- element: {"tag":"input","role":null,"ariaLabel":null,"name":null,"type":null,"id":null,"placeholder":"Digite o prontuário e tecle ENTER...","label":"Digite o prontuário e tecle ENTER...","value":"","valueLength":0,"text":""}
+
